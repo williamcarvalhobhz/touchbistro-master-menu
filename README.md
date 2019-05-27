@@ -1,4 +1,4 @@
-# Touchbistro MasterMenu
+# Touchbistro Master Menu
 
 ### This is an iOS app for menu management. It's a case study proposed for the Vanhack LEAP Toronto 2019.
 
